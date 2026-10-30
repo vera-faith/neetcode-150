@@ -4,11 +4,11 @@ My NeetCode 150 journey in Python (relearning Python from a Java background).
 One problem = one solution file + short notes on the pattern, committed as I work through them in order.
 
 ## Progress
-- Total: 1 / 150 started
+- Total: 2 / 150 solved
 
 ### Arrays & Hashing
-- [x] Contains Duplicate — `arrays-and-hashing/contains-duplicate.py` — pattern: seen set. Status: learned from example solution (Oct 20, 2026), to re-solve from memory.
-- [ ] Valid Anagram
+- [x] Contains Duplicate — `arrays-and-hashing/contains-duplicate.py` — pattern: seen set. Learned from example Oct 20, 2026, then worked through and passed on NeetCode Oct 29, 2026.
+- [x] Valid Anagram — `arrays-and-hashing/valid-anagram.py` — pattern: frequency dicts (counting). Solved 2026-10-29.
 - [ ] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
