@@ -15,5 +15,5 @@ class Solution:
 
 # Pattern: seen set
 # Time: O(n) — one pass. Space: O(n) — set can hold every element.
-# Status: learned from example solution on 2026-10-20; re-solve from memory next time.
+# Status: learned from example on 2026-10-20, then worked through and passed on NeetCode on 2026-10-29.
 # Java equivalent: HashSet<Integer>, return true on !seen.add(n) style logic.
